@@ -36,13 +36,14 @@ npm iniit -y:
 npm i discord.js
 npm i nodemon
 npm i dotenv
+touch env
 ```
-Copy code
-3. Rename `.env.example` to `.env` and fill in your Discord bot token.
-4. Start the bot by running:
+
+3. fill in your Discord bot token in env file and save it.
+4. Start the bot by running: ``` nodemon ```
 
 ### Sensitive information 
-- Sensitive information is being revoked like clientId, GuildID and the token.
+- Sensitive information is being revoked like clientId, GuildID and the token for security purposes.
 
 ## Contributing
 
