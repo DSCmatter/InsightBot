@@ -45,9 +45,10 @@ npm i discord.js
 npm i nodemon
 npm i dotenv
 touch env
+touch config.json
 ```
 
-3. fill in your Discord bot token in env file and save it.
+3. Fill in your Discord bot token, ClientId, GuildId from [Discord developer portal](https://discord.com/developers) and sign into it and also your discord server in env file or a config.json and save it.
 4. Start the bot by running: ``` nodemon ```
 
 ### Sensitive information 
