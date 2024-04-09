@@ -32,7 +32,7 @@ To host your own instance of Insight Bot, follow these steps:
 1. Clone this repository to your local machine.
 2. Install the required dependencies by running:
 ```
-npm iniit -y:
+npm iniit -y
 npm i discord.js
 npm i nodemon
 npm i dotenv
