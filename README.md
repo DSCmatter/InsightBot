@@ -44,6 +44,7 @@ touch env
 
 ### Sensitive information 
 - Sensitive information is being revoked like clientId, GuildID and the token for security purposes.
+- The bot is not being currently hosted.
 
 ## Contributing
 
