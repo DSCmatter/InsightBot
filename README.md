@@ -13,13 +13,13 @@ Insight Bot is a Discord bot built using Node.js and the discord.js API. It prov
 - /server
 - This command will display information about the current server, including its name, ID, region, member count, and more.
 
-  ![/server](images/server.png)
+  ![/server](images/server-info.png)
 
 ### User Info
 - /user
 - This command will display the name of user, and when the user joined.
 
-  ![/user](images/user.png)
+  ![/user](images/user-info.png)
 
 ### Embed
 - /embed
