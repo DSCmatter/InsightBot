@@ -1,6 +1,6 @@
 # Insight Bot
 
-Insight Bot is a Discord bot built using Node.js and the discord.js API. It provides various slash commands for obtaining information about servers and users, as well as the ability to embed messages and display the roundtrip latency or ping of the bot.
+Insight Bot is a Discord bot also known as Sage, is built using Node.js and the discord.js API. It provides various slash commands for obtaining information about servers and users, as well as the ability to embed messages and display the roundtrip latency or ping of the bot.
 
 ## Features
 
